@@ -1,0 +1,5 @@
+{
+  "lambda_arn": "arn:aws:lambda:eu-west-1:526914317097:function:geoip", 
+  "app_name": "geoip", 
+  "stage": "dev"
+}

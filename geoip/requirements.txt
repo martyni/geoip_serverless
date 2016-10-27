@@ -1,0 +1,13 @@
+botocore==1.4.65
+chalice==0.0.1
+click==6.2
+docutils==0.12
+httpie==0.9.6
+jmespath==0.9.0
+Pygments==2.1.3
+python-dateutil==2.5.3
+python-geoip==1.2
+python-geoip-geolite2==2015.303
+requests==2.11.1
+six==1.10.0
+typing==3.5.1.0
